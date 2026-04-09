@@ -27,3 +27,6 @@ The program displays:
 ---
 
 This project is part of my learning journey in Python.
+
+## 👨‍💻 Author
+Alen Kuriakose
