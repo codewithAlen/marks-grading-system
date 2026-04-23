@@ -2,7 +2,7 @@
 
 marks = []
 
-n = int(input("Enter number of subjects: "))
+n = int(input(f"Enter number of subjects: "))
 
 for i in range(n):
     mark = int(input("Enter marks for subject {i+1}: "))
